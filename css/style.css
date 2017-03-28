@@ -1,0 +1,7 @@
+.safe-area {
+	background: url("../img/banner.jpeg");
+	max-width:100%;
+	height:auto;
+	height: 500px;
+	padding: 1rem;
+}
